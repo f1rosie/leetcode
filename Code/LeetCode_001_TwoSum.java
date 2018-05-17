@@ -1,4 +1,4 @@
-class twoSum {
+class LeetCode_001_TwoSum {
     public int[] twoSum(int[] nums, int target) {
         if (nums == null || nums.length < 2){
             return  new int[] {-1,-1};
